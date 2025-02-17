@@ -21,7 +21,7 @@ Optional Publication to read:
 ## Thursday - Dengue Day Schedule
 
 | Star   | End   | Activities                                            | Speaker            |
-|--------|---------------------------------------------------------------|--------------------|
+|--------|-------|-------------------------------------------------------|--------------------|
 | 09:00  | 09:10 | Welcome and introduction                              |                    |
 | 09:10  | 09:45 | Genomics: Bacterial versus viral pathogens            | Alicia             |
 | 09:45  | 10:15 | Introduction to Dengue                                | Kat                |
