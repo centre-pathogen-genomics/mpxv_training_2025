@@ -30,7 +30,7 @@ Optional Publication to read:
 | 11:00  | 11:30 | Introduction to the command line interface            | Ammar              |
 | 11:30  | 12:00 | Demonstration of Conda                                | Ammar              |
 | 12:00  | 13:00 | Lunch                                                 |                    |
-| 13:00  | 13:30 | Running DengueSeq pipeline                            |                    |
+| 13:00  | 13:30 | Running DengueSeq pipeline                            | Ammar              |
 | 13:30  | 14:30 | Nextclade and Nextstrain for Dengue                   | Ammar              |
 | 14:30  | 15:15 | Dengue genomic epidemiology                           | Kat                | #45
 | 15:15  | 15:45 | Hands-on example and group discussion                 | Kat                | #30
