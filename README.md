@@ -27,6 +27,7 @@ Right click save as:
 - [Phylogenetic tree](https://github.com/centre-pathogen-genomics/mpxv_training_2025/raw/refs/heads/main/data/DV4.newick)
 - [Metadata](https://github.com/centre-pathogen-genomics/mpxv_training_2025/raw/refs/heads/main/data/DV4-metadata.xlsx)
 - [Example Sequences](https://raw.githubusercontent.com/centre-pathogen-genomics/mpxv_training_2025/refs/heads/main/data/dengue-examples.fasta)
+- [DengueSeq Analysis Results](https://github.com/centre-pathogen-genomics/mpxv_training_2025/raw/refs/heads/main/data/dengueseq-run-data.zip)
 
 ## Resources:
 
