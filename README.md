@@ -26,16 +26,17 @@ Optional Publication to read:
 | 09:10  | 09:45 | Genomics: Bacterial versus viral pathogens            | Alicia             |
 | 09:45  | 10:15 | Introduction to Dengue                                | Kat                |
 | 10:15  | 10:45 | Morning Tea Break                                     |                    |
-| 10:45  | 11:15 | Demonstration of DengueSeq                            | Ammar              |
-| 11:15  | 11:45 | Introduction to the command line interface            | Ammar              |
-| 11:45  | 12:15 | Demonstration of Conda                                | Ammar              |
-| 12:15  | 12:45 | Lunch                                                 |                    |
-| 12:45  | 13:45 | Nextclade and Nextstrain for Dengue                   | Ammar              |
-| 13:45  | 14:30 | Dengue genomic epidemiology                           | Kat                |
-| 14:30  | 15:00 | Hands-on example and group discussion                 | Kat                |
-| 15:00  | 15:30 | Afternoon Tea                                         |                    |
-| 15:30  | 16:30 | Hands-on example and group discussion (cont.)         | Kat                |
-| 16:30  | 16:45 | Wrap up                                               | Kat                |
+| 10:45  | 11:00 | DengueSeq Analysis Pipeline                           | Ammar              |
+| 11:00  | 11:30 | Introduction to the command line interface            | Ammar              |
+| 11:30  | 12:00 | Demonstration of Conda                                | Ammar              |
+| 12:00  | 13:00 | Lunch                                                 |                    |
+| 13:00  | 13:30 | Running DengueSeq pipeline                            |                    |
+| 13:30  | 14:30 | Nextclade and Nextstrain for Dengue                   | Ammar              |
+| 14:30  | 15:15 | Dengue genomic epidemiology                           | Kat                | #45
+| 15:15  | 15:45 | Hands-on example and group discussion                 | Kat                | #30
+| 15:45  | 16:15 | Afternoon Tea                                         |                    |
+| 16:15  | 17:15 | Hands-on example and group discussion (cont.)         | Kat                | #60
+| 17:15  | 17:30 | Wrap up                                               | Kat                |
 
 ## Other resources:
 
